@@ -1,2 +1,5 @@
-# .github
-Unleash the ultimate Roblox Grow a Garden Hacks toolset! 🌻 Packed with auto-farming, fast growth boosters, instant planting, and hidden unlockables. Level up faster, farm smarter, and dominate the leaderboard effortlessly. Secure, optimized, and constantly updated for 2025! 🌿
+<div style="text-align: center">
+  <a href="">
+    <img class="bumbum" style="width: 1000px" alt="Static Badge" src="https://img.shields.io/badge/Click_For-_Open_Script_in_Pastebin!-purple">
+  </a>
+</div>
